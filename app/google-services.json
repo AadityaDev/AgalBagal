@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "931052953992",
+    "firebase_url": "https://agalbagal-52ac9.firebaseio.com",
+    "project_id": "agalbagal-52ac9",
+    "storage_bucket": "agalbagal-52ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931052953992:android:4617b6f61211bf2f",
+        "android_client_info": {
+          "package_name": "com.technawabs.agalbagal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931052953992-g02p9sqg4s79a5sqotktoqjh4prhojur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technawabs.agalbagal",
+            "certificate_hash": "67AB88E063DC4C2C0A9C8C2B13B0AF5F23D86993"
+          }
+        },
+        {
+          "client_id": "931052953992-qecqs42r1g954qsqdd3m34i9smslrj5b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "931052953992-o9crijqegtsm9b9kdu0qugp5f04tpqq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_l44K6BOqJRMsIVa28lgU1wEC44cYj0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931052953992-qecqs42r1g954qsqdd3m34i9smslrj5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
