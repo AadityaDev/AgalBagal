@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -10,6 +11,8 @@
 /build
 /captures
 =======
+=======
+>>>>>>> d6564d97c0ff0b765fcff5608ce7848f11e65cbb
 =======
 >>>>>>> d6564d97c0ff0b765fcff5608ce7848f11e65cbb
 =======
@@ -56,6 +59,9 @@ captures/
 *.jks
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d6564d97c0ff0b765fcff5608ce7848f11e65cbb
+=======
 >>>>>>> d6564d97c0ff0b765fcff5608ce7848f11e65cbb
 =======
 >>>>>>> d6564d97c0ff0b765fcff5608ce7848f11e65cbb
